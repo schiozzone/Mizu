@@ -1,0 +1,8 @@
+.vs/
+bin/
+!vendor/bin/premake/
+bin-int/
+*.vcxproj*
+*.sln
+Sandbox/imgui.ini
+Sandbox/assets/

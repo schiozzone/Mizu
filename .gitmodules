@@ -1,0 +1,12 @@
+[submodule "Mizu/vendor/spdlog"]
+	path = Mizu/vendor/spdlog
+	url = https://github.com/gabime/spdlog
+[submodule "Mizu/vendor/GLFW"]
+	path = Mizu/vendor/GLFW
+	url = https://github.com/glfw/glfw
+[submodule "Mizu/vendor/imgui"]
+	path = Mizu/vendor/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "Mizu/vendor/glm"]
+	path = Mizu/vendor/glm
+	url = https://github.com/g-truc/glm.git
